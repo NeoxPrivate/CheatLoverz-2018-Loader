@@ -1,6 +1,6 @@
 # Cheatloverz 2018 Loader Remake
 
-##A remake of the popular Cheatloverz 2018 Loader, Just for fun got bored,
+## A remake of the popular Cheatloverz 2018 Loader, Just for fun got bored.
 
 
 ## Installation
